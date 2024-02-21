@@ -32,9 +32,7 @@ To get started with Talk-A-Tive, follow these simple steps:
 
 We welcome contributions to enhance Talk-A-Tive. If you have any ideas, bug reports, or feature requests, feel free to open an issue or submit a pull request.
 
-## License
 
-Talk-A-Tive is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
